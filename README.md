@@ -3,4 +3,4 @@
 A flutter app which shows the traits of the F.R.I.E.N.D.S characters
 
 
-<img align="left" width="1000" height="1000" src="https://user-images.githubusercontent.com/86592569/141097673-fb7b9515-f566-41fc-bba9-89509d4a8ec1.jpeg">
+<img align="left" width="1024" height="760" src="https://user-images.githubusercontent.com/86592569/141097673-fb7b9515-f566-41fc-bba9-89509d4a8ec1.jpeg">
