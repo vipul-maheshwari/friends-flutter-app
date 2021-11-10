@@ -6,7 +6,4 @@
 
 ## Some Screenshots
 <img align="left" height="400" src="https://user-images.githubusercontent.com/86592569/141100455-9f95457c-84e7-41c0-8f87-17c82869d0ed.jpg"
-
-<img align="left" height="400" src="https://user-images.githubusercontent.com/86592569/141100471-2fd3b123-adef-46ab-96fe-6c24f0e6efdf.jpg">
-
-<img align="left" height="400" src="https://user-images.githubusercontent.com/86592569/141100518-793f043c-141f-4e51-b8bc-73881d1a2862.jpg">
+<img align="left" height="400" src="https://user-images.githubusercontent.com/86592569/141100518-793f043c-141f-4e51-b8bc-73881d1a2862.jpg"
