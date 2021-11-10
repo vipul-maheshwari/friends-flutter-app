@@ -5,4 +5,4 @@
 
 
 ## Some Screenshots
-<img align="left" height="400" src="https://user-images.githubusercontent.com/86592569/141100455-9f95457c-84e7-41c0-8f87-17c82869d0ed.jpg"
+<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/86592569/141100962-f60c6971-f194-491d-bd0f-a95ed6cb38e4.jpg">
