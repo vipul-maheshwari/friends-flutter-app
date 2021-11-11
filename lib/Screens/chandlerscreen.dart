@@ -40,6 +40,7 @@ class _ChandlerscreenState extends State<Chandlerscreen> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         backgroundColor: Colors.black,
         body: Padding(

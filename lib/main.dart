@@ -26,6 +26,7 @@ class _YourIdState extends State<YourId> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: DefaultTabController(
         length: 6,
         child: Scaffold(

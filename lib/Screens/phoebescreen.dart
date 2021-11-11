@@ -39,6 +39,7 @@ class _PhoebescreenState extends State<Phoebescreen> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         backgroundColor: Colors.black,
         body: Padding(

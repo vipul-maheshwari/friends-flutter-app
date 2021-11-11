@@ -40,6 +40,7 @@ class _JoeyscreenState extends State<Joeyscreen> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         backgroundColor: Colors.black,
         body: Padding(
